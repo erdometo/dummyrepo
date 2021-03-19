@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010130955347",
+    "firebase_url": "https://cetpe-saglik.firebaseio.com",
+    "project_id": "cetpe-saglik",
+    "storage_bucket": "cetpe-saglik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010130955347:android:e7419d7a01a4b52ccb2aa6",
+        "android_client_info": {
+          "package_name": "com.cepte.saglik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010130955347-ll5hvhq76tobhhb2dv9b8bu96ab0rkpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbc06S05vxOB5-fl0G519ihG0RQComIKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010130955347-ll5hvhq76tobhhb2dv9b8bu96ab0rkpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
