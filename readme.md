@@ -1,1 +1,1 @@
-1122456dd
+This project is an agora sdk integration of java android sdk.
